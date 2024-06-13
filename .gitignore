@@ -1,0 +1,24 @@
+# Ignore Visual Studio temporary files, build results, and
+# build logs.
+*.log
+*.tlog
+*.tmp
+*.pdb
+*.obj
+*.exe
+*.ilk
+*.idb
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+
+# Ignore the Visual Studio folder
+.vs/
+
+# Ignore build output directories
+[Bb]in/
+[Oo]bj/
+
+# Ignore the packages folder
+packages/
